@@ -1,8 +1,8 @@
-# Customer Churn Analysis
+# 📊 Customer Churn Analysis Dashboard
 
-This project analyzes customer churn using Power BI.
+This project focuses on analyzing customer churn using Power BI.
 
-## 📊 Key Insights
+## 🔍 Key Insights
 - Churn rate: 26.54%
 - Month-to-month contracts have higher churn
 - Fiber optic users show higher churn
@@ -11,5 +11,8 @@ This project analyzes customer churn using Power BI.
 - SQL
 - Power BI
 
-## 📷 Dashboard
-![Dashboard](Screenshot 2026-04-10 234441.png)
+## 📷 Dashboard Preview
+![Dashboard](dashboard.png)
+
+## 🚀 Project Objective
+To identify patterns and factors contributing to customer churn and provide actionable insights.
