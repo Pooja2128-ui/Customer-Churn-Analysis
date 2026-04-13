@@ -8,7 +8,7 @@ This project focuses on analyzing customer churn using Power BI.
 - Fiber optic users show higher churn
 
 ## 🛠 Tools Used
-- SQL
+- Python
 - Power BI
 
 ## 📷 Dashboard Preview
